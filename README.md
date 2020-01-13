@@ -232,12 +232,14 @@ after execution, providing .blue[visual support to look inside the box].
   * A fast-growing community of experts which makes it easier to reach the best solutions
   * Learn a lot about Python, CS and SW engineering
   * Scientific merit (citations, software)
+  * BIDS
 
 ### The dark side
 
   * Many hours of support for free on Neurostars, GitHub, etc.
   * (Apparently) never ending new bugs, regressions and feature requests.
   * An overly complicated infrastructure with many moving pieces.
+  * BIDS
 ---
 ## Summary
 
