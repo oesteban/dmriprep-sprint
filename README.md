@@ -30,6 +30,12 @@ class: middle, inverse
 1. Software infrastructure + Nipype wrapping of third-party tools
 2. Middleware utilities and services
 3. End-user tools
+
+## Vision
+
+* Extend the scanner device to produce analysis-grade data
+* Minimal human intervention
+* Standardized workflows via community engagement
 ---
 layout: true
 ---
